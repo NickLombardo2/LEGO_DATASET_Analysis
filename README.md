@@ -13,7 +13,7 @@ use the .agg() function to run an operation on a particular column
 
 rename() columns of DataFrames
 
-create a line chart with two separate axes to visualise data that have different scales.
+create a line chart with two separate axes to visualize data that have different scales.
 
 create a scatter plot in Matplotlib
 
