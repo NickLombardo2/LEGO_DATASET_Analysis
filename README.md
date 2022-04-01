@@ -1,4 +1,4 @@
-# LEGO_DATASET_Analysis which LEGO Theme has the most amount of LEGO sets answered.
+# LEGO_DATASET_Analysis which LEGO Theme has the most amount of LEGO sets.
 
 Skills used in this code:
 
